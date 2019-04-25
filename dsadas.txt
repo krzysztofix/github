@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 jedziemy dalej
+=======
+wszystko bêdzie dorbrze
+>>>>>>> develop
